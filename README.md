@@ -183,8 +183,8 @@ skill-architect → skill-creator → skill-reviewer → skill-optimizer
 
 ## 만든 사람
 
-**Blue** — 미드저니 코리아, Claude Cowork 스킬 개발자  
-- YouTube: [미드저니 코리아](https://www.youtube.com/@mjKorea123)
+**Blue (조남경)** — 미드저니 코리아, Claude Cowork 스킬 개발자  
+- YouTube: [미드저니 코리아 조남경](https://www.youtube.com/@mjKorea123)
 - Facebook: [미드저니 코리아](https://facebook.com/groups/midjourneykorea)
 
 ---
