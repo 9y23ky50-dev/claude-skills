@@ -175,10 +175,16 @@ skill-architect → skill-creator → skill-reviewer → skill-optimizer
 
 ---
 
+## 내 스킬 백업
+
+릴스·영상, 디자인 스킬 23개를 [`my-skills/`](my-skills/) 폴더에 백업해 두었습니다. 목록과 설명은 [my-skills/README.md](my-skills/README.md)에 있습니다.
+
+---
+
 ## 만든 사람
 
-**Blue (조남경)** — 미드저니 코리아, Claude Cowork 스킬 개발자  
-- YouTube: [미드저니 코리아 조남경](https://www.youtube.com/@mjKorea123)
+**Blue** — 미드저니 코리아, Claude Cowork 스킬 개발자  
+- YouTube: [미드저니 코리아](https://www.youtube.com/@mjKorea123)
 - Facebook: [미드저니 코리아](https://facebook.com/groups/midjourneykorea)
 
 ---
