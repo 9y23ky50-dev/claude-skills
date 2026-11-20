@@ -177,7 +177,7 @@ skill-architect → skill-creator → skill-reviewer → skill-optimizer
 
 ## 내 스킬 백업
 
-릴스·영상, 디자인 스킬 23개를 [`my-skills/`](my-skills/) 폴더에 백업해 두었습니다. 목록과 설명은 [my-skills/README.md](my-skills/README.md)에 있습니다.
+직접 만든 스킬 17개(릴스·영상·만화)를 [`my-skills/`](my-skills/) 폴더에 백업해 두었습니다. 목록과 설명은 [my-skills/README.md](my-skills/README.md)에 있습니다.
 
 ---
 
