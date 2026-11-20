@@ -98,8 +98,13 @@ Claude Cowork에 기본 탑재된 스킬로, 별도 설치가 필요 없습니�
 **방법 A — 앱에서 업로드 (권장)**
 
 1. 필요한 `.skill` 파일을 내려받습니다
-2. Claude 앱의 **설정 → 기능(Capabilities) → 스킬(Skills)** 에서 파일을 업로드합니다
-3. 목록에 스킬이 보이고 켜져 있는지 확인합니다
+2. Claude 앱 왼쪽 메뉴에서 **Customize(맞춤 설정) → Skills(스킬)** 로 들어갑니다
+3. **+** 버튼 → **+ Create skill** → **Upload a skill** 을 누르고 파일을 올립니다
+   - 파일 선택 창에 `.skill` 파일이 보이지 않으면 확장자를 `.zip`으로 바꿔서 올리세요 (`.skill`은 zip 파일입니다)
+4. 목록에 스킬이 보이고 켜져 있는지 확인합니다
+
+> 스킬은 **코드 실행(code execution)** 기능이 켜져 있어야 동작합니다.
+> 메뉴 이름은 앱 버전에 따라 다를 수 있습니다. 최신 안내: [Use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
 
 **방법 B — 폴더로 직접 설치**
 
