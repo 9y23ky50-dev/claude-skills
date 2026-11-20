@@ -87,10 +87,26 @@ Claude Cowork에 기본 탑재된 스킬로, 별도 설치가 필요 없습니�
 
 ### skill-architect / skill-reviewer / skill-optimizer
 
-1. 이 저장소를 다운로드합니다
-2. 각 스킬 폴더(`skill-architect/`, `skill-reviewer/`, `skill-optimizer/`)를  
-   Claude Cowork의 플러그인 폴더에 복사합니다
-3. Cowork를 재시작하면 스킬이 활성화됩니다
+저장소에는 스킬이 `.skill` 파일(zip 압축 파일)로 들어 있습니다.
+
+| 파일 | 압축을 풀면 |
+|---|---|
+| `skill-architect.skill` | `skill-architect/` 폴더 (`SKILL.md` + `reference/`) |
+| `skill-reviewer.skill` | `skill-reviewer/` 폴더 (`SKILL.md` + `reference/`) |
+| `skill-optimizer.skill` | `skill-optimizer/` 폴더 (`SKILL.md` + `design_brief.md` + `reference/`) |
+
+**방법 A — 앱에서 업로드 (권장)**
+
+1. 필요한 `.skill` 파일을 내려받습니다
+2. Claude 앱의 **설정 → 기능(Capabilities) → 스킬(Skills)** 에서 파일을 업로드합니다
+3. 목록에 스킬이 보이고 켜져 있는지 확인합니다
+
+**방법 B — 폴더로 직접 설치**
+
+1. `.skill` 파일의 압축을 풉니다 (확장자를 `.zip`으로 바꾸면 일반 압축 해제 프로그램으로 열립니다)
+2. 압축을 풀어 나온 폴더(예: `skill-reviewer/`)를 **폴더째** 스킬 폴더에 복사합니다
+   - 폴더 안의 `SKILL.md`만 따로 꺼내지 마세요. `reference/` 파일을 함께 써야 스킬이 제대로 동작합니다
+3. 앱을 재시작하면 스킬이 활성화됩니다
 
 ### skill-creator
 
